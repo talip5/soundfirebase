@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33328405219",
+    "project_id": "soundfirebase",
+    "storage_bucket": "soundfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33328405219:android:caa0cfb9508997c98143d6",
+        "android_client_info": {
+          "package_name": "com.example.soundfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33328405219-ltibtrfu3b9dv8pioo8ii8qpmjp51gvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsbYRsgISXh2-Bfpf8L0SxGEjulcv-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33328405219-ltibtrfu3b9dv8pioo8ii8qpmjp51gvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
